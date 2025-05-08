@@ -1,0 +1,9 @@
+Although he was always STEM-focused, Stratton initially overlooked Computer Science as a possible major at the University of Illinois Urbana-Champaign because he didn’t understand what it was all about.
+
+“I assumed that coding was just a different kind of typing,” he admits. He was more interested in the engineering of computers—building hardware and technology.
+
+He didn’t give software another thought until a computer engineering course showed him that computers needed instructions to do anything. “It was eye-opening,” Stratton says. “I loved how computer science is about identifying a problem that needs to be solved and figuring out how to build a computer system or piece of software to solve it.”
+
+Stratton went on to earn both his Bachelor of Science and doctorate at Urbana-Champaign. While his first love for the hardware side of computing never faded, over time, software became a more dynamic research field.
+
+“My advisor and cohort were very focused on understanding existing systems and testing how to write and develop better software to enable the hardware that we had,” he explains. Consequently, Stratton expanded his research focus to include computer science in graduate school.
